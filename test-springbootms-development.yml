@@ -8,4 +8,5 @@ spring:
     name: test_springbootms
 myown:
     custom: test custom yaml
+test.encrypted.message: '{cipher}AQBWgR0pQ7gUXD7VaaVwzP37YdZyE73CQM5/4/O/i1FbnxABUwLZIeIjr9oOi1MMYTytYNnkXvRLt1Mnscb4lyTHrRTnRwkGGlLg4Zbfg9sZZJwOZ14y5YwDHOK0eaOoSNC2W4xuvxmc/0ZZnkL/IP7xKM8GmS2k4MGwGNXFwcADKk9tR6g0ASynOGJgdjvkUtWf/ARRu8S+2GPwgnfKTCPufEIFdzvzFOslgIptmvzdv5gGHR3un4BukWwieN6frgMxTumVrdPYr7dG1s1BhLgNVK6JWUx/swXUGeLrgv9AeBXQUif7N9pqOhwSGANFF1ESsUZ/EI4qkTyGSbeV9yNpUiGlgoMlnOgWiuQRTBEgyU/fw9ear0jkTGDjFHfE8KI='
 test.custom.message: Hello world I am the message number 2 modified 20
